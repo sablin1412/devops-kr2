@@ -1,3 +1,4 @@
+# KR2: Sablin
 import os
 import socket
 
